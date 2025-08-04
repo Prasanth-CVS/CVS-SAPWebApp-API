@@ -1,0 +1,28 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# ASP.NET secrets
+secrets.json
+
+# Auto-generated files
+*.generated.cs
+
+# Publish directory
+wwwroot/
+
+# Ignore environment-specific configs (optional)
+appsettings.Development.json
